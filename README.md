@@ -8,7 +8,7 @@
   - ⚛️ Modern React Stack – Uses functional components, hooks, and clean state management.
 
 ### 🛠️ Tech Stack
-  - Frontend: React.js, JSX, CSS (or Tailwind/SCSS if used)
+  - Frontend: React.js, JSX, Tailwindcss
   - API: TMDB API
   - State Management: React Hooks (useState, useEffect)
 
