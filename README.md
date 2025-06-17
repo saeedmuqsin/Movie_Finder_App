@@ -2,18 +2,15 @@
   Movie_Finder App is a sleek and responsive React-based application that allows users to search for movies and access detailed information, including ratings, descriptions, release dates, and more. Built with modern React features and clean UI components, this app offers a fast and intuitive way to explore movie content via public APIs.
 
 ### 🚀 Features
-    - 🔍 Real-time Movie Search – Search movies by title and get instant results.
-
-    - 🎞️ Detailed Movie Info – View movie overviews, ratings, release dates, posters, and more.
-
-    - 🧭 Responsive Design – Fully optimized for both desktop and mobile devices.
-
-    - ⚛️ Modern React Stack – Uses functional components, hooks, and clean state management.
+  - 🔍 Real-time Movie Search – Search movies by title and get instant results.
+  - 🎞️ Detailed Movie Info – View movie overviews, ratings, release dates, posters, and more.
+  - 🧭 Responsive Design – Fully optimized for both desktop and mobile devices.
+  - ⚛️ Modern React Stack – Uses functional components, hooks, and clean state management.
 
 ### 🛠️ Tech Stack
-    - Frontend: React.js, JSX, CSS (or Tailwind/SCSS if used)
-    - API: TMDB API
-    - State Management: React Hooks (useState, useEffect)
+  - Frontend: React.js, JSX, CSS (or Tailwind/SCSS if used)
+  - API: TMDB API
+  - State Management: React Hooks (useState, useEffect)
 
 ### 📦 Installation
         git clone https://github.com/yourusername/Movie_Finder-App.git
