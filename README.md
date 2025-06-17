@@ -1,12 +1,28 @@
-# React + Vite
+<h2> 🎬 Movie_Finder App </h2>
+  Movie_Finder App is a sleek and responsive React-based application that allows users to search for movies and access detailed information, including ratings, descriptions, release dates, and more. Built with modern React features and clean UI components, this app offers a fast and intuitive way to explore movie content via public APIs.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### 🚀 Features
+    - 🔍 Real-time Movie Search – Search movies by title and get instant results.
 
-Currently, two official plugins are available:
+    - 🎞️ Detailed Movie Info – View movie overviews, ratings, release dates, posters, and more.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+    - 🧭 Responsive Design – Fully optimized for both desktop and mobile devices.
 
-## Expanding the ESLint configuration
+    - ⚛️ Modern React Stack – Uses functional components, hooks, and clean state management.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 🛠️ Tech Stack
+    - Frontend: React.js, JSX, CSS (or Tailwind/SCSS if used)
+    - API: TMDB API
+    - State Management: React Hooks (useState, useEffect)
+
+### 📦 Installation
+        git clone https://github.com/yourusername/Movie_Finder-App.git
+        cd Movie_Finder-App
+        npm install
+        npm start
+        
+### 📷 Preview
+![Screenshot 2025-06-17 233619](https://github.com/user-attachments/assets/a62ce45e-8bb6-4960-bc4b-5ab9daa361c3)
+
+
+This app is ideal for anyone looking to explore movies quickly or as a learning project for practicing API integration and component-based development in React.
